@@ -1,0 +1,5 @@
+fruits = ["gauva", "mango", "banana", "grapes", "orange"]
+print("Complete list:", fruits)
+print("First element:", fruits[0])
+print("Last element:", fruits[-1])
+print("Total items:", len(fruits))
