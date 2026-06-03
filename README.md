@@ -1,3 +1,5 @@
+theory question
+
 Q1. Difference Between Data Types
 In Python, data types tell us what kind of value a variable holds. Here are the four basic ones:
 a) Integer (int)
